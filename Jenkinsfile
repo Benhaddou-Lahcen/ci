@@ -1,6 +1,6 @@
 pipeline {
     agent any
-
+    
     tools {
         // Doit correspondre au nom 'Maven' dans tes outils Jenkins
         maven 'Maven' 
